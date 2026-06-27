@@ -10,7 +10,7 @@ portfolio-website<!DOCTYPE html>
 <body>
 
   <nav>
-    <h1>Anu Priya</h1>
+    <h1> chagi AnuPriya</h1>
 
     <ul>
       <li><a href="#about">About</a></li>
@@ -38,7 +38,7 @@ portfolio-website<!DOCTYPE html>
     <h2>Projects</h2>
 
     <div class="card">
-      <h3>Calculator</h3>
+      <h3> Attendance Calculator</h3>
       <p>Simple calculator using JavaScript.</p>
     </div>
 
